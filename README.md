@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋 Hey, I'm Megha Roy
 
 ### 💻 Full-Stack Developer | 🤖 ML Enthusiast | 🎓 IT Student
@@ -8,7 +10,11 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raai2005)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roymegha952@gmail.com)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🚀 About Me
 
@@ -23,7 +29,11 @@ const megha = {
 };
 ```
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🛠️ Tech Arsenal
 
@@ -75,20 +85,24 @@ const megha = {
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=raai2005&show_icons=true&theme=radical" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raai2005&layout=compact&theme=radical" alt="Top Languages" height="165">
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=raai2005&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raai2005&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raai2005&theme=radical" alt="GitHub Streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raai2005&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="70%" />
+
 </div>
 
 ---
+
+<div align="center">
 
 ## 💡 What I Bring to the Table
 
@@ -115,7 +129,11 @@ Ship projects, not just code
 </tr>
 </table>
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🎮 When I'm Not Coding
 
@@ -123,7 +141,11 @@ Ship projects, not just code
 |:---:|:---:|:---:|:---:|
 | ![](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white) | ![](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white) | ![](https://img.shields.io/badge/Fitness-FF6B6B?style=flat-square&logo=fitbit&logoColor=white) | ![](https://img.shields.io/badge/Coffee-6F4E37?style=flat-square&logo=buy-me-a-coffee&logoColor=white) |
 
+</div>
+
 ---
+
+<div align="center">
 
 ## 🌟 Let's Build Something Amazing Together!
 
@@ -144,3 +166,5 @@ Ship projects, not just code
 ### 💬 *"Code is poetry written in logic"*
 
 **Made with ❤️ and lots of ☕**
+
+</div>
