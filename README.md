@@ -24,7 +24,7 @@ const megha = {
     education: "B.Tech in Information Technology (2023-2027)",
     institute: "RCC Institute of Information Technology",
     currentFocus: ["Machine Learning", "System Design", "Data Science"],
-    interests: ["AI/ML", "Web Development", "Flutter Development"]
+    interests: ["AI/ML", "Web Development", "App Development"]
 };
 ```
 
